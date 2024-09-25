@@ -1,0 +1,12 @@
+# Per installare tutte le librerie necessarie eseguire il seguente comando: pip install -r requirements.txt
+
+py-solc-x
+eth-tester
+web3
+cryptography
+msgpack
+pygetwindow
+codicefiscale
+pymerkle
+pandas
+ecdsa

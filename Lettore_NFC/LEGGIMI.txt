@@ -1,0 +1,6 @@
+Il contenuto della cartella "Lettore NFC" simula il comportamento del dispositivo reale:
+
+    - la CIE viene appoggiata sul lettore;
+    - l'utente inserisce il PIN;
+    - il lettore verifica se il PIN inserito è corretto interagendo con il chip della CIE;
+    - il lettore restituisce una risposta positiva o negativa in base all'esito della verifica.

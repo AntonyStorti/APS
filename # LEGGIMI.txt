@@ -1,0 +1,5 @@
+# Per eseguire l'applicativo sviluppato occorre:
+
+1) Lanciare questo comando nel terminale: pip install -r requirements.txt
+
+2) Eseguire il file contenuto in: GUI/Home.py
